@@ -1,0 +1,12 @@
+node_modules
+coverage
+.DS_STORE
+.eslintcache
+.vscode/
+*.log
+docs-build/
+dist/
+coverage/
+.eslintcache
+stats.html
+.yarn
